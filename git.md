@@ -1,7 +1,8 @@
 # GIT Stuff
 
 ## Create a remote repository on a server
-In order to crete a remote (private?) server, once there is a local repository do the following steps:
+_(from [How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps))_  
+In order to crete a remote (_private?_) server, once there is a local repository do the following steps:
 
 1. On remote:
 
